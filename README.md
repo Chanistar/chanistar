@@ -1,4 +1,4 @@
-<h1>Hi, I'm chani, an <a href="https://linkedin.com/in/Chani">IT Professional</a>☺</h1>
+<h1>Hi, I'm Chani, an <a href="https://linkedin.com/in/Chani">IT Professional</a>☺</h1>
 <h2>👨‍💻 Information Technology Projects:</h2>
 
 - <b>osTicket (Help Desk Ticketing System)</b>
